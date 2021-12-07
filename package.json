@@ -1,0 +1,22 @@
+{
+  "name": "vectorkata",
+  "version": "1.0.0",
+  "description": "publishing for assingment",
+  "main": "2dVector.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnmanuelMinaya/VectorClass.git"
+  },
+  "author": "eminaya28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnmanuelMinaya/VectorClass/issues"
+  },
+  "homepage": "https://github.com/EnmanuelMinaya/VectorClass#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
