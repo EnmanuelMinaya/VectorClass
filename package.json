@@ -1,6 +1,6 @@
 {
   "name": "vectorkata",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "publishing for assingment",
   "main": "2dVector.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/EnmanuelMinaya/VectorClass#readme",
   "devDependencies": {
     "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "vectorkata": "^3.0.0"
   }
 }
