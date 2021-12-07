@@ -19,3 +19,7 @@ test('should return lenght 4.243 of vector (3,3)', () => {
 test('should return dot product of (3,3)(2,4) is 18 ', () => {
     expect(v.dotProduct(b)).toBe(18);
 })
+
+test('should return angle 0.322 between (3,3) y (2,4)', () => {
+    expect(v.angleBetween(b)).toBe(0.32191336925763603)
+})

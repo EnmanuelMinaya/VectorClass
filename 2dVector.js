@@ -13,6 +13,9 @@ class Vector {
         return (this.x * v.x + this.y * v.y);
     }
 
+    angleBetween(v) {
+        return Math.acos(this.dotProduct(v) / (this.length() * v.length()));
+    }
 
 }
 
